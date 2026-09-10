@@ -2,8 +2,7 @@ name: Check Heidelberg Jobboerse
 
 on:
   schedule:
-    # 每 30 分鐘跑一次（UTC 時間；GitHub 免費排程可能會有幾分鐘延遲，屬正常現象）
-    - cron: "*/30 * * * *"
+    - cron: "*/10 * * * *"
   workflow_dispatch: {}   # 允許在 GitHub 網頁上手動點「Run workflow」測試
 
 permissions:
