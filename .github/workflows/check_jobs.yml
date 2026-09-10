@@ -1,8 +1,6 @@
 name: Check Heidelberg Jobboerse
 
 on:
-  schedule:
-    - cron: "*/10 * * * *"
   workflow_dispatch: {}   # 允許在 GitHub 網頁上手動點「Run workflow」測試
 
 permissions:
