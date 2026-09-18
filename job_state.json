@@ -1,15 +1,15 @@
 {
-  "619670": {
-    "titel": "Nachhilfelehrer*innen",
-    "ort": "Heidelberg",
-    "datum": "18.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/619670/"
-  },
   "619668": {
     "titel": "Servicekraft",
     "ort": "Dossenheim",
     "datum": "07.09.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/619668/"
+  },
+  "62840": {
+    "titel": "Nachhilfelehrer*in für Deutsch",
+    "ort": "Heidelberg/ Bahnstadt",
+    "datum": "21.09.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62840/"
   },
   "62839": {
     "titel": "Hilfe beim Wocheneinkauf",
@@ -89,6 +89,12 @@
     "datum": "25.09.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62827/"
   },
+  "62826": {
+    "titel": "Nachhilfelehrer*innen",
+    "ort": "Heidelberg",
+    "datum": "18.09.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62826/"
+  },
   "62825": {
     "titel": "Nachhilfelehrer*innen",
     "ort": "Mannheim",
@@ -112,11 +118,5 @@
     "ort": "Heidelberg-neuenheim",
     "datum": "18.09.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62822/"
-  },
-  "62821": {
-    "titel": "Nachhilfe in Mathe",
-    "ort": "Heidelberg-Handschuhsheim",
-    "datum": "18.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62821/"
   }
 }
