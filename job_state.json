@@ -1,4 +1,16 @@
 {
+  "62876": {
+    "titel": "Unterstützung im Alltag und gemeinsame Unternehmungen",
+    "ort": "Umkreis Heidelberg",
+    "datum": "22.09.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62876/"
+  },
+  "62875": {
+    "titel": "Studentische Aushilfe",
+    "ort": "Heidelberg-Altstadt",
+    "datum": "23.09.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62875/"
+  },
   "62874": {
     "titel": "Praktikant*in",
     "ort": "Heidelberg",
@@ -106,17 +118,5 @@
     "ort": "Heidelberg-Altstadt",
     "datum": "30.09.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62857/"
-  },
-  "62856": {
-    "titel": "Verkaufskraft/ Heidelberger Weihnachtsmarkt",
-    "ort": "Heidelberg",
-    "datum": "23.11.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62856/"
-  },
-  "62855": {
-    "titel": "Verkaufskraft/ Weindorf",
-    "ort": "Heidelberg",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62855/"
   }
 }
