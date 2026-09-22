@@ -1,4 +1,16 @@
 {
+  "62871": {
+    "titel": "Studienteilnahme Psychologie",
+    "ort": "Heidelberg",
+    "datum": "28.09.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62871/"
+  },
+  "62870": {
+    "titel": "Bereitschaftsdienst im studentischen Telefondienst",
+    "ort": "Heidelberg",
+    "datum": "01.11.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62870/"
+  },
   "62868": {
     "titel": "OP-Assistenz",
     "ort": "Ludwigshafen am Rhein",
@@ -106,17 +118,5 @@
     "ort": "Heidelberg",
     "datum": "23.09.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62851/"
-  },
-  "62850": {
-    "titel": "Studentische Hilfskraft für Schulungsteam der UB",
-    "ort": "Heidelberg",
-    "datum": "01.11.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62850/"
-  },
-  "62849": {
-    "titel": "Service-/ Barkraft",
-    "ort": "Heidelberg",
-    "datum": "21.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62849/"
   }
 }
