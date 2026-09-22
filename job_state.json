@@ -1,4 +1,16 @@
 {
+  "62868": {
+    "titel": "OP-Assistenz",
+    "ort": "Ludwigshafen am Rhein",
+    "datum": "22.09.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62868/"
+  },
+  "62867": {
+    "titel": "Französisch Tutor*in",
+    "ort": "Heidelberg-Ziegelhausen",
+    "datum": "01.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62867/"
+  },
   "62866": {
     "titel": "Verkäufer*in/Kassierer*in",
     "ort": "Heidelberg",
@@ -106,17 +118,5 @@
     "ort": "Heidelberg",
     "datum": "21.09.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62849/"
-  },
-  "62848": {
-    "titel": "Haushaltshilfe, Reinigunshilfe",
-    "ort": "Heidelberg",
-    "datum": "21.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62848/"
-  },
-  "62847": {
-    "titel": "Umzugshilfe",
-    "ort": "Eppelheim",
-    "datum": "26.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62847/"
   }
 }
