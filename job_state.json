@@ -1,4 +1,16 @@
 {
+  "62873": {
+    "titel": "Trainer*innen für Baby-, Kinder-, Erwachsenenschwimmkurse & Aquasport",
+    "ort": "Schwetzingen, Walldorf, Hockenheim, Plankstadt",
+    "datum": "22.09.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62873/"
+  },
+  "62872": {
+    "titel": "Ausschank Weihnachtsmarkt",
+    "ort": "Heidelberg, Kornmarkt",
+    "datum": "23.11.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62872/"
+  },
   "62871": {
     "titel": "Studienteilnahme Psychologie",
     "ort": "Heidelberg",
@@ -10,6 +22,12 @@
     "ort": "Heidelberg",
     "datum": "01.11.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62870/"
+  },
+  "62869": {
+    "titel": "Babysitter*in",
+    "ort": "Heidelberg-Südstadt",
+    "datum": "23.09.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62869/"
   },
   "62868": {
     "titel": "OP-Assistenz",
@@ -100,23 +118,5 @@
     "ort": "Heidelberg",
     "datum": "24.09.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62854/"
-  },
-  "62853": {
-    "titel": "Werkstudent*in für Full Stack-Softwareentwicklung in Legal Tech-Kanzlei",
-    "ort": "Heidelberg",
-    "datum": "01.11.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62853/"
-  },
-  "62852": {
-    "titel": "Babysitter*in",
-    "ort": "Schwetzingen",
-    "datum": "22.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62852/"
-  },
-  "62851": {
-    "titel": "Rezeptionist*in",
-    "ort": "Heidelberg",
-    "datum": "23.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62851/"
   }
 }
