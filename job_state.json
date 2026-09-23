@@ -1,4 +1,10 @@
 {
+  "62884": {
+    "titel": "Nachhilfe in den Fächern Deutsch, Englisch, Mathematik",
+    "ort": "Bammental",
+    "datum": "01.12.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62884/"
+  },
   "62883": {
     "titel": "Haushaltshilfe",
     "ort": "Heidelberg",
@@ -112,11 +118,5 @@
     "ort": "Heidelberg",
     "datum": "01.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62865/"
-  },
-  "62864": {
-    "titel": "Babysitter*in",
-    "ort": "Heidelberg-Altstadt",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62864/"
   }
 }
