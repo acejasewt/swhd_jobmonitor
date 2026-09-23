@@ -1,4 +1,16 @@
 {
+  "62886": {
+    "titel": "Nachhilfelehrkräfte für Mathe und Physik",
+    "ort": "Grosssachsen",
+    "datum": "24.09.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62886/"
+  },
+  "62885": {
+    "titel": "Nachhilfelehrkräfte für Latein",
+    "ort": "Grosssachsen",
+    "datum": "24.09.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62885/"
+  },
   "62884": {
     "titel": "Nachhilfe in den Fächern Deutsch, Englisch, Mathematik",
     "ort": "Bammental",
@@ -106,17 +118,5 @@
     "ort": "Heidelberg-Ziegelhausen",
     "datum": "01.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62867/"
-  },
-  "62866": {
-    "titel": "Verkäufer*in/Kassierer*in",
-    "ort": "Heidelberg",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62866/"
-  },
-  "62865": {
-    "titel": "Praktikant*in – Qualitative Marktforschung",
-    "ort": "Heidelberg",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62865/"
   }
 }
