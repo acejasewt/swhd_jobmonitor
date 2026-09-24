@@ -1,4 +1,10 @@
 {
+  "62889": {
+    "titel": "Assistenz für Rollstuhlfahrerin",
+    "ort": "Heidelberg Neuenheim",
+    "datum": "01.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62889/"
+  },
   "62888": {
     "titel": "Hilfe bei Hauswirtschaftlichen Tätigkeiten",
     "ort": "Wiesloch",
@@ -30,7 +36,7 @@
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62884/"
   },
   "62883": {
-    "titel": "Haushaltshilfe",
+    "titel": "Haushaltshilfe/Domestic help",
     "ort": "Heidelberg",
     "datum": "01.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62883/"
@@ -112,11 +118,5 @@
     "ort": "Heidelberg",
     "datum": "01.11.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62870/"
-  },
-  "62869": {
-    "titel": "Babysitter*in",
-    "ort": "Heidelberg-Südstadt",
-    "datum": "23.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62869/"
   }
 }
