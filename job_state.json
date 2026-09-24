@@ -1,4 +1,16 @@
 {
+  "62888": {
+    "titel": "Hilfe bei Hauswirtschaftlichen Tätigkeiten",
+    "ort": "Wiesloch",
+    "datum": "24.09.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62888/"
+  },
+  "62887": {
+    "titel": "Verwaltungsarbeit am PC",
+    "ort": "Wiesloch",
+    "datum": "24.09.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62887/"
+  },
   "62886": {
     "titel": "Nachhilfelehrkräfte für Mathe und Physik",
     "ort": "Grosssachsen",
@@ -106,17 +118,5 @@
     "ort": "Heidelberg-Südstadt",
     "datum": "23.09.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62869/"
-  },
-  "62868": {
-    "titel": "OP-Assistenz",
-    "ort": "Ludwigshafen am Rhein",
-    "datum": "22.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62868/"
-  },
-  "62867": {
-    "titel": "Französisch Tutor*in",
-    "ort": "Heidelberg-Ziegelhausen",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62867/"
   }
 }
