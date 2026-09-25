@@ -1,4 +1,40 @@
 {
+  "62901": {
+    "titel": "Nachhilfe Mathematik Leistungskurs J1",
+    "ort": "Heidelberg-Handschuhsheim",
+    "datum": "28.09.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62901/"
+  },
+  "62900": {
+    "titel": "Minijob Haushaltshilfe",
+    "ort": "Heidelberg (Kirchheim/ Pfaffengrund/ Bahnstadt)",
+    "datum": "01.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62900/"
+  },
+  "62899": {
+    "titel": "Mithilfe Gartenbau",
+    "ort": "Dossenheim",
+    "datum": "25.09.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62899/"
+  },
+  "62896": {
+    "titel": "Working Student/ Project Manager Support",
+    "ort": "Mannheim",
+    "datum": "15.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62896/"
+  },
+  "62895": {
+    "titel": "App-Tester*innen",
+    "ort": "Remote",
+    "datum": "25.09.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62895/"
+  },
+  "62894": {
+    "titel": "Nachhilfe Mathematik (Kl. 11)",
+    "ort": "Heidelberg-Handschuhsheim",
+    "datum": "25.09.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62894/"
+  },
   "62893": {
     "titel": "Kinderbetreuung (English speaking)",
     "ort": "Heidelberg-Rohrbach",
@@ -82,41 +118,5 @@
     "ort": "Heidelberg–Handschuhsheim",
     "datum": "01.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62880/"
-  },
-  "62879": {
-    "titel": "Mathe-Tutor*in",
-    "ort": "Heidelberg-Ziegelhausen",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62879/"
-  },
-  "62878": {
-    "titel": "Nachhilfetätigkeit Mathe",
-    "ort": "Sinsheim oder St. Leon-Rot",
-    "datum": "28.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62878/"
-  },
-  "62877": {
-    "titel": "Nachhilfe Mathematik",
-    "ort": "Heidelberg-Weststadt",
-    "datum": "25.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62877/"
-  },
-  "62876": {
-    "titel": "Unterstützung im Alltag und gemeinsame Unternehmungen",
-    "ort": "Umkreis Heidelberg",
-    "datum": "22.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62876/"
-  },
-  "62875": {
-    "titel": "Studentische Aushilfe",
-    "ort": "Heidelberg-Altstadt",
-    "datum": "23.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62875/"
-  },
-  "62874": {
-    "titel": "Praktikant*in",
-    "ort": "Heidelberg",
-    "datum": "01.03.2027",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62874/"
   }
 }
