@@ -1,4 +1,10 @@
 {
+  "62902": {
+    "titel": "Studentische Projektmitarbeit",
+    "ort": "Homeoffice in Heidelberg",
+    "datum": "05.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62902/"
+  },
   "62901": {
     "titel": "Nachhilfe Mathematik Leistungskurs J1",
     "ort": "Heidelberg-Handschuhsheim",
@@ -16,6 +22,12 @@
     "ort": "Dossenheim",
     "datum": "25.09.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62899/"
+  },
+  "62897": {
+    "titel": "Produktionshelfer*in",
+    "ort": "Heidelberg",
+    "datum": "01.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62897/"
   },
   "62896": {
     "titel": "Working Student/ Project Manager Support",
@@ -106,17 +118,5 @@
     "ort": "Remote",
     "datum": "15.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62882/"
-  },
-  "62881": {
-    "titel": "Stud. Hilfskraft Wohnresearch & GIS",
-    "ort": "Schwetzingen",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62881/"
-  },
-  "62880": {
-    "titel": "Nachhilfelehrer*in Mathematik, Deutsch und Englisch",
-    "ort": "Heidelberg–Handschuhsheim",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62880/"
   }
 }
