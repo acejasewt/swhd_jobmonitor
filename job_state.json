@@ -1,4 +1,16 @@
 {
+  "62918": {
+    "titel": "Mathematik-Nachhilfe in Nachhilfeschule",
+    "ort": "Heidelberg",
+    "datum": "12.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62918/"
+  },
+  "62917": {
+    "titel": "Lehramts-Student*innen gesucht",
+    "ort": "Schriesheim",
+    "datum": "01.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62917/"
+  },
   "62915": {
     "titel": "Aushilfe Arztpraxis Empfang",
     "ort": "Heidelberg",
@@ -106,17 +118,5 @@
     "ort": "Heidelberg",
     "datum": "01.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62897/"
-  },
-  "62896": {
-    "titel": "Working Student/ Project Manager Support",
-    "ort": "Mannheim",
-    "datum": "15.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62896/"
-  },
-  "62895": {
-    "titel": "App-Tester*innen",
-    "ort": "Remote",
-    "datum": "25.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62895/"
   }
 }
