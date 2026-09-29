@@ -1,4 +1,16 @@
 {
+  "62932": {
+    "titel": "Mitarbeiter*in für Café & Laden",
+    "ort": "Heidelberg-Altstadt",
+    "datum": "29.09.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62932/"
+  },
+  "62931": {
+    "titel": "Laden Verkäufer*in f. Backwaren",
+    "ort": "Heidelberg-Altstadt",
+    "datum": "29.09.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62931/"
+  },
   "62930": {
     "titel": "Studentische Hilfskraft, Team German Microdata Lab (SHK_DRS_2026_027)",
     "ort": "Mannheim",
@@ -106,17 +118,5 @@
     "ort": "Heidelberg",
     "datum": "15.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62912/"
-  },
-  "62911": {
-    "titel": "Werkstudent*in (Psychologie) für den Webinar-Support",
-    "ort": "ortsunabhängig, teilweise in Weinheim",
-    "datum": "28.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62911/"
-  },
-  "62910": {
-    "titel": "Werkstudent*in Hotel",
-    "ort": "Heidelberg Neuenheim",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62910/"
   }
 }
