@@ -1,4 +1,28 @@
 {
+  "62940": {
+    "titel": "Lernbegleitung Grundschule",
+    "ort": "Heidelberg Neuenheim",
+    "datum": "01.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62940/"
+  },
+  "62939": {
+    "titel": "Nachhilfe in Mathe (9. Klasse)",
+    "ort": "Heidelberg Weststadt",
+    "datum": "01.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62939/"
+  },
+  "62938": {
+    "titel": "Kinderbetreuung",
+    "ort": "Schriesheim",
+    "datum": "23.11.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62938/"
+  },
+  "62937": {
+    "titel": "Ladehelfer*innen",
+    "ort": "Heidelberg-Kirchheim",
+    "datum": "03.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62937/"
+  },
   "62936": {
     "titel": "Mathenachhilfe",
     "ort": "Heidelberg Handschuhsheim",
@@ -94,29 +118,5 @@
     "ort": "Heidelberg",
     "datum": "28.09.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62921/"
-  },
-  "62920": {
-    "titel": "Klavierlehrer:in für Schüler (K1)",
-    "ort": "69214 Eppelheim/Heidelberg",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62920/"
-  },
-  "62919": {
-    "titel": "Fahrdienst für junge Frau mit Unterstützungsbedarf",
-    "ort": "Heidelberg/Rauenberg",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62919/"
-  },
-  "62918": {
-    "titel": "Mathematik-Nachhilfe in Nachhilfeschule",
-    "ort": "Heidelberg",
-    "datum": "12.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62918/"
-  },
-  "62917": {
-    "titel": "Lehramts-Student*innen gesucht",
-    "ort": "Schriesheim",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62917/"
   }
 }
