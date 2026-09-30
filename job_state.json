@@ -1,4 +1,10 @@
 {
+  "62944": {
+    "titel": "Laden Verkäufer*in f. Backwaren",
+    "ort": "Heidelberg-Altstadt",
+    "datum": "29.09.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62944/"
+  },
   "62943": {
     "titel": "Hundesitting",
     "ort": "Heidelberg",
@@ -59,18 +65,6 @@
     "datum": "01.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62933/"
   },
-  "62932": {
-    "titel": "Mitarbeiter*in für Café & Laden",
-    "ort": "Heidelberg-Altstadt",
-    "datum": "29.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62932/"
-  },
-  "62931": {
-    "titel": "Laden Verkäufer*in f. Backwaren",
-    "ort": "Heidelberg-Altstadt",
-    "datum": "29.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62931/"
-  },
   "62930": {
     "titel": "Studentische Hilfskraft, Team German Microdata Lab (SHK_DRS_2026_027)",
     "ort": "Mannheim",
@@ -118,5 +112,11 @@
     "ort": "remote",
     "datum": "01.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62923/"
+  },
+  "62922": {
+    "titel": "ONLINE NACHHILFE für Mathe",
+    "ort": "remote",
+    "datum": "01.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62922/"
   }
 }
