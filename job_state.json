@@ -1,4 +1,10 @@
 {
+  "62947": {
+    "titel": "Nachhilfe",
+    "ort": "Bruchsal",
+    "datum": "30.09.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62947/"
+  },
   "62946": {
     "titel": "Alltagshilfe",
     "ort": "OEG-Stationen in Wieblingen",
@@ -112,11 +118,5 @@
     "ort": "Neckargemünd",
     "datum": "01.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62925/"
-  },
-  "62924": {
-    "titel": "Bauhelfer*in",
-    "ort": "Heidelberg Ziegelhausen",
-    "datum": "28.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62924/"
   }
 }
