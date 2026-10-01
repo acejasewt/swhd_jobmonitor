@@ -1,4 +1,34 @@
 {
+  "62953": {
+    "titel": "Haushaltshilfe",
+    "ort": "Heidelberg-Südstadt",
+    "datum": "01.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62953/"
+  },
+  "62952": {
+    "titel": "Lehramts-Studierende für Nachhilfeunterricht",
+    "ort": "Heidelberg-Kirchheim und Neckargemünd",
+    "datum": "12.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62952/"
+  },
+  "62951": {
+    "titel": "Reinigungskraft",
+    "ort": "Heidelberg-Altstadt",
+    "datum": "01.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62951/"
+  },
+  "62950": {
+    "titel": "Nachhilfe Englisch",
+    "ort": "Heidelberg-Wieblingen",
+    "datum": "05.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62950/"
+  },
+  "62949": {
+    "titel": "Kinderbetreuung",
+    "ort": "Schriesheim",
+    "datum": "23.11.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62949/"
+  },
   "62947": {
     "titel": "Nachhilfe",
     "ort": "Bruchsal",
@@ -53,12 +83,6 @@
     "datum": "23.11.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62938/"
   },
-  "62937": {
-    "titel": "Ladehelfer*innen",
-    "ort": "Heidelberg-Kirchheim",
-    "datum": "03.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62937/"
-  },
   "62936": {
     "titel": "Mathenachhilfe",
     "ort": "Heidelberg Handschuhsheim",
@@ -94,29 +118,5 @@
     "ort": "Heidelberg",
     "datum": "02.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62929/"
-  },
-  "62928": {
-    "titel": "Werkstudent*in Sales & Marketing",
-    "ort": "Stuttgart (hybrid)",
-    "datum": "29.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62928/"
-  },
-  "62927": {
-    "titel": "Werkstudent*in Energy Data Science",
-    "ort": "Stuttgart (hybrid)",
-    "datum": "29.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62927/"
-  },
-  "62926": {
-    "titel": "Werkstudent*in AI & Machine Learning",
-    "ort": "Stuttgart (hybrid)",
-    "datum": "29.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62926/"
-  },
-  "62925": {
-    "titel": "Hundeerfahrene Unterstützung für Gassigehen gesucht!",
-    "ort": "Neckargemünd",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62925/"
   }
 }
