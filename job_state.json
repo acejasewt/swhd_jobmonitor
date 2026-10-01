@@ -1,4 +1,40 @@
 {
+  "62965": {
+    "titel": "Babysitterin für 3 Kinder",
+    "ort": "Handschuhsheim",
+    "datum": "01.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62965/"
+  },
+  "62964": {
+    "titel": "Assistenz für Betreuung",
+    "ort": "Neckargemünd",
+    "datum": "01.11.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62964/"
+  },
+  "62963": {
+    "titel": "Praktikumsähnliche ehrenamtliche Mitarbeit, Fachrichtung Psychologie",
+    "ort": "Heidelberg",
+    "datum": "07.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62963/"
+  },
+  "62962": {
+    "titel": "Werkstudent*in für Marketing",
+    "ort": "Heidelberg (Nähe Hauptbahnhof)",
+    "datum": "01.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62962/"
+  },
+  "62961": {
+    "titel": "Umzugshelfer*innen",
+    "ort": "Heidelberg-Altstadt",
+    "datum": "16.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62961/"
+  },
+  "62960": {
+    "titel": "Technikassistent*in für die IT-Abteilung an einem Privatgymnsaium",
+    "ort": "Heidlelberg (nähe Altstadt)",
+    "datum": "01.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62960/"
+  },
   "62959": {
     "titel": "Kinderbetreuung",
     "ort": "Heidelberg-Kirchheim",
@@ -10,6 +46,12 @@
     "ort": "Weinheim",
     "datum": "03.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62957/"
+  },
+  "62956": {
+    "titel": "Filmbegeisterte Studierende",
+    "ort": "Heidelberg",
+    "datum": "21.11.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62956/"
   },
   "62955": {
     "titel": "Fahrzeugüberführer*in",
@@ -53,6 +95,12 @@
     "datum": "23.11.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62949/"
   },
+  "62948": {
+    "titel": "Haushaltshilfe",
+    "ort": "Heidelberg-Neuenheim",
+    "datum": "",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62948/"
+  },
   "62947": {
     "titel": "Nachhilfe",
     "ort": "Bruchsal",
@@ -70,53 +118,5 @@
     "ort": "Heidelberg-Weststadt",
     "datum": "02.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62945/"
-  },
-  "62944": {
-    "titel": "Laden Verkäufer*in f. Backwaren",
-    "ort": "Heidelberg-Altstadt",
-    "datum": "29.09.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62944/"
-  },
-  "62943": {
-    "titel": "Hundesitting",
-    "ort": "Heidelberg",
-    "datum": "05.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62943/"
-  },
-  "62941": {
-    "titel": "Aushilfe für Empfang & Social Media",
-    "ort": "Schwetzingen",
-    "datum": "15.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62941/"
-  },
-  "62940": {
-    "titel": "Lernbegleitung Grundschule",
-    "ort": "Heidelberg Neuenheim",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62940/"
-  },
-  "62939": {
-    "titel": "Nachhilfe in Mathe (9. Klasse)",
-    "ort": "Heidelberg Weststadt",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62939/"
-  },
-  "62938": {
-    "titel": "Kinderbetreuung",
-    "ort": "Schriesheim",
-    "datum": "23.11.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62938/"
-  },
-  "62936": {
-    "titel": "Mathenachhilfe",
-    "ort": "Heidelberg Handschuhsheim",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62936/"
-  },
-  "62935": {
-    "titel": "Verteilheld*innen für Kunstverein",
-    "ort": "Heidelberg",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62935/"
   }
 }
