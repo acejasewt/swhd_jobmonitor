@@ -1,4 +1,10 @@
 {
+  "62990": {
+    "titel": "Anmeldung Arztpraxis",
+    "ort": "1",
+    "datum": "05.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62990/"
+  },
   "62989": {
     "titel": "Dolmetschen u. Qualifizierungsangebot",
     "ort": "Mannheim",
@@ -112,11 +118,5 @@
     "ort": "Mannheim, Stuttgart, Heidelberg, Frankfurt, München",
     "datum": "01.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62971/"
-  },
-  "62970": {
-    "titel": "Pflichtpraktikum - Praktikant*in in unserem Reise-/ Übersetzungsbüro",
-    "ort": "Mannheim",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62970/"
   }
 }
