@@ -1,4 +1,22 @@
 {
+  "62988": {
+    "titel": "Glühweinverkäufer*in",
+    "ort": "Heidelberg-Altstadt",
+    "datum": "23.11.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62988/"
+  },
+  "62987": {
+    "titel": "Helfer*in Umzug",
+    "ort": "Neckargemünd",
+    "datum": "10.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62987/"
+  },
+  "62986": {
+    "titel": "Babysitter*in",
+    "ort": "Heidelberg-Südstadt",
+    "datum": "12.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62986/"
+  },
   "62985": {
     "titel": "Umzugshelfer*in",
     "ort": "Heidelberg",
@@ -100,23 +118,5 @@
     "ort": "Mannheim und Umgebung",
     "datum": "01.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62969/"
-  },
-  "62968": {
-    "titel": "Werkstudierende*r für Projektassistenz",
-    "ort": "Heidelberg und remote",
-    "datum": "15.11.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62968/"
-  },
-  "62967": {
-    "titel": "Übungsleiter*in Ballschule Aushilfe",
-    "ort": "Heidelberg-Neuenheim",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62967/"
-  },
-  "62966": {
-    "titel": "Übungsleiter*in Ballschule",
-    "ort": "Heidelberg-Neuenheim",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62966/"
   }
 }
