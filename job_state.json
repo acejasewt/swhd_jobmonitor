@@ -1,4 +1,28 @@
 {
+  "63002": {
+    "titel": "Schmuckverkauf Weihnachtsmarkt",
+    "ort": "Heidelberg-Altstadt",
+    "datum": "15.11.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63002/"
+  },
+  "63001": {
+    "titel": "Wohnungsreinigung",
+    "ort": "Heidelberg-Rohrbach",
+    "datum": "05.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63001/"
+  },
+  "62997": {
+    "titel": "Spülkraft in Restaurant",
+    "ort": "Neckargemünd",
+    "datum": "10.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62997/"
+  },
+  "62996": {
+    "titel": "Umzugshelfer*in",
+    "ort": "Mannheim",
+    "datum": "09.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62996/"
+  },
   "62995": {
     "titel": "Kinokasse",
     "ort": "Heidelberg",
@@ -94,29 +118,5 @@
     "ort": "Heidelberg-Kirchheim und Neckargemünd",
     "datum": "19.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62980/"
-  },
-  "62979": {
-    "titel": "Lerntherapeut*in",
-    "ort": "Heidelberg",
-    "datum": "05.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62979/"
-  },
-  "62978": {
-    "titel": "Minijob als Brandwache bei der HKK",
-    "ort": "Heidelberg",
-    "datum": "02.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62978/"
-  },
-  "62977": {
-    "titel": "Bürounterstützung",
-    "ort": "Heidelberg, Weststadt",
-    "datum": "02.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62977/"
-  },
-  "62976": {
-    "titel": "Social Media Asisdent",
-    "ort": "Heidelberg",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62976/"
   }
 }
