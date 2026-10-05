@@ -1,4 +1,28 @@
 {
+  "62995": {
+    "titel": "Kinokasse",
+    "ort": "Heidelberg",
+    "datum": "15.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62995/"
+  },
+  "62994": {
+    "titel": "Babysitter*in",
+    "ort": "Heidelberg Südstadt",
+    "datum": "05.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62994/"
+  },
+  "62993": {
+    "titel": "Tragehelfer*in für einen Umzug",
+    "ort": "Plankstadt",
+    "datum": "29.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62993/"
+  },
+  "62992": {
+    "titel": "Nachhilfe in Mathematik Grundschule",
+    "ort": "Heidelberg-Wieblingen",
+    "datum": "05.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62992/"
+  },
   "62991": {
     "titel": "Hilfe im Haushalt",
     "ort": "Heidelberg-Neuenheim",
@@ -94,29 +118,5 @@
     "ort": "Heidelberg",
     "datum": "01.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62976/"
-  },
-  "62975": {
-    "titel": "Teilnahme an Studie zu Selbstwahrnehmung und sozialer Kognition",
-    "ort": "Heidelberg–Bergheim",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62975/"
-  },
-  "62974": {
-    "titel": "Fahrer*innen f. Catering-Service auf Minijob-Basis",
-    "ort": "Heidelberg und Dossenheim",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62974/"
-  },
-  "62973": {
-    "titel": "Freelancer*in/ Dolmetscher*in",
-    "ort": "Mannheim,Heidelberg,Stuttgart und Frankfurt",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62973/"
-  },
-  "62972": {
-    "titel": "Werkstudent*in im Büro",
-    "ort": "Mannheim",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62972/"
   }
 }
