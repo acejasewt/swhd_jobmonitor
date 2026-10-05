@@ -1,4 +1,10 @@
 {
+  "62991": {
+    "titel": "Hilfe im Haushalt",
+    "ort": "Heidelberg-Neuenheim",
+    "datum": "11.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62991/"
+  },
   "62990": {
     "titel": "Anmeldung Arztpraxis",
     "ort": "1",
@@ -112,11 +118,5 @@
     "ort": "Mannheim",
     "datum": "01.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62972/"
-  },
-  "62971": {
-    "titel": "Freelancer Job als Dolmetscher*in bei Ämtern",
-    "ort": "Mannheim, Stuttgart, Heidelberg, Frankfurt, München",
-    "datum": "01.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62971/"
   }
 }
