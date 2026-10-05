@@ -1,4 +1,16 @@
 {
+  "63004": {
+    "titel": "HiWi für die Zytologie/Durchflusszytometrie am MVZ Heppenheim",
+    "ort": "Heppenheim",
+    "datum": "01.11.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63004/"
+  },
+  "63003": {
+    "titel": "HiWi Molekularbiologie/ NGS",
+    "ort": "Heppenheim",
+    "datum": "01.11.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63003/"
+  },
   "63002": {
     "titel": "Schmuckverkauf Weihnachtsmarkt",
     "ort": "Heidelberg-Altstadt",
@@ -10,6 +22,24 @@
     "ort": "Heidelberg-Rohrbach",
     "datum": "05.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63001/"
+  },
+  "63000": {
+    "titel": "Studienteilnehmende",
+    "ort": "Heidelberg-Altstadt",
+    "datum": "05.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63000/"
+  },
+  "62999": {
+    "titel": "Babysitter*in gesucht",
+    "ort": "Heidelberg-Neuenheim",
+    "datum": "06.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62999/"
+  },
+  "62998": {
+    "titel": "Nachtportier*in",
+    "ort": "Heidelberg",
+    "datum": "01.11.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62998/"
   },
   "62997": {
     "titel": "Spülkraft in Restaurant",
@@ -88,35 +118,5 @@
     "ort": "Heidelberg",
     "datum": "03.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62985/"
-  },
-  "62984": {
-    "titel": "Minijob/ Pädagogische*r Mitarbeiter*in für MARA",
-    "ort": "Mannheim",
-    "datum": "02.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62984/"
-  },
-  "62983": {
-    "titel": "Werkstudent*in/ Aushilfe mit feinmechanischem Geschick",
-    "ort": "Heidelberg",
-    "datum": "02.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62983/"
-  },
-  "62982": {
-    "titel": "Aushilfe bei Entsendeorganisation für Auslandsfreiwilligendienste",
-    "ort": "1x im Monat Präsenztreffen in Karlsruhe",
-    "datum": "19.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62982/"
-  },
-  "62981": {
-    "titel": "Praxishilfe für Empfang und Anmeldung (Werkstudent/-in)",
-    "ort": "Heidelberg",
-    "datum": "15.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62981/"
-  },
-  "62980": {
-    "titel": "Lehrkraft für Nachhilfe in Mathematik",
-    "ort": "Heidelberg-Kirchheim und Neckargemünd",
-    "datum": "19.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62980/"
   }
 }
