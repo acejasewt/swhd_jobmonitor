@@ -1,7 +1,37 @@
 {
+  "63015": {
+    "titel": "Haushaltshilfe",
+    "ort": "Heidelberg-Weststadt",
+    "datum": "06.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63015/"
+  },
+  "63014": {
+    "titel": "Putzhilfe",
+    "ort": "Heidelberg-Weststadt",
+    "datum": "06.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63014/"
+  },
+  "63013": {
+    "titel": "Hilfe bei der Einrichtung von kleinanzeigen-account und markt.de",
+    "ort": "HD",
+    "datum": "",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63013/"
+  },
+  "63012": {
+    "titel": "Nachbarschaftshilfe – Sinnvolles tun und Geld dabei verdienen",
+    "ort": "Heidelberg-Handschuhsheim,-Neuenheim",
+    "datum": "06.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63012/"
+  },
+  "63011": {
+    "titel": "Werkstudent*in in einer Full Stack-Softwareentwicklung Legal Tech-Kanzlei gesucht",
+    "ort": "Heidelberg-Altstadt",
+    "datum": "01.11.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63011/"
+  },
   "63010": {
     "titel": "Babysitter*in",
-    "ort": "Heidelberg Neuenheim",
+    "ort": "Heidelberg-Neuenheim",
     "datum": "05.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63010/"
   },
@@ -88,35 +118,5 @@
     "ort": "Heidelberg",
     "datum": "15.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62995/"
-  },
-  "62994": {
-    "titel": "Babysitter*in",
-    "ort": "Heidelberg Südstadt",
-    "datum": "05.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62994/"
-  },
-  "62993": {
-    "titel": "Tragehelfer*in für einen Umzug",
-    "ort": "Plankstadt",
-    "datum": "29.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62993/"
-  },
-  "62992": {
-    "titel": "Nachhilfe in Mathematik Grundschule",
-    "ort": "Heidelberg-Wieblingen",
-    "datum": "05.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62992/"
-  },
-  "62991": {
-    "titel": "Hilfe im Haushalt",
-    "ort": "Heidelberg-Neuenheim",
-    "datum": "11.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62991/"
-  },
-  "62990": {
-    "titel": "Anmeldung Arztpraxis",
-    "ort": "1",
-    "datum": "05.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62990/"
   }
 }
