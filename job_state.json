@@ -1,4 +1,10 @@
 {
+  "63010": {
+    "titel": "Babysitter*in",
+    "ort": "Heidelberg Neuenheim",
+    "datum": "05.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63010/"
+  },
   "63009": {
     "titel": "Nachhilfe in Hauptfächern ab Klasse 4",
     "ort": "Sinsheim, Philippsburg, Dossenheim",
@@ -112,11 +118,5 @@
     "ort": "1",
     "datum": "05.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62990/"
-  },
-  "62989": {
-    "titel": "Dolmetschen u. Qualifizierungsangebot",
-    "ort": "Mannheim",
-    "datum": "01.11.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62989/"
   }
 }
