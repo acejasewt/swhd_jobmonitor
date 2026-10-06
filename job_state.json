@@ -1,4 +1,28 @@
 {
+  "63009": {
+    "titel": "Nachhilfe in Hauptfächern ab Klasse 4",
+    "ort": "Sinsheim, Philippsburg, Dossenheim",
+    "datum": "12.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63009/"
+  },
+  "63008": {
+    "titel": "Werkstudent*in im Büro",
+    "ort": "Heidelberg-Weststadt",
+    "datum": "16.11.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63008/"
+  },
+  "63007": {
+    "titel": "Studentische Mitarbeit im Sekretariat",
+    "ort": "Mannheim",
+    "datum": "01.11.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63007/"
+  },
+  "63006": {
+    "titel": "Studentische Aushilfe für den Verkauf",
+    "ort": "Heidelberg",
+    "datum": "05.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63006/"
+  },
   "63005": {
     "titel": "Empfangs- u. Hygienekraft in Podologie",
     "ort": "Heidelberg-Pfaffengrund",
@@ -94,29 +118,5 @@
     "ort": "Mannheim",
     "datum": "01.11.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62989/"
-  },
-  "62988": {
-    "titel": "Glühweinverkäufer*in",
-    "ort": "Heidelberg-Altstadt",
-    "datum": "23.11.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62988/"
-  },
-  "62987": {
-    "titel": "Helfer*in Umzug",
-    "ort": "Neckargemünd",
-    "datum": "10.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62987/"
-  },
-  "62986": {
-    "titel": "Babysitter*in",
-    "ort": "Heidelberg-Südstadt",
-    "datum": "12.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62986/"
-  },
-  "62985": {
-    "titel": "Umzugshelfer*in",
-    "ort": "Heidelberg",
-    "datum": "03.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62985/"
   }
 }
