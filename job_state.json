@@ -1,4 +1,76 @@
 {
+  "632026": {
+    "titel": "Nachhilfe Mathematik 10. Klasse Gymnasium",
+    "ort": "Heidelberg",
+    "datum": "08.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/632026/"
+  },
+  "63026": {
+    "titel": "Stud./Wiss. Hilfskraft f. MRT-Projekt",
+    "ort": "Heidelberg",
+    "datum": "11.11.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63026/"
+  },
+  "63025": {
+    "titel": "Empfangsmitarbeiter*in/ Rezeption",
+    "ort": "Heidelberg",
+    "datum": "07.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63025/"
+  },
+  "63024": {
+    "titel": "Babysitter",
+    "ort": "Heidelberg/ Wieblingen",
+    "datum": "30.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63024/"
+  },
+  "63023": {
+    "titel": "Stud. Mithilfe in Praxis f. Stressmedizin",
+    "ort": "Dossenheim",
+    "datum": "07.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63023/"
+  },
+  "63022": {
+    "titel": "Werkstudent*in Weihnachtsmarkt Uniplatz",
+    "ort": "Heidelberg",
+    "datum": "23.11.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63022/"
+  },
+  "63021": {
+    "titel": "Studentische Unterstützung Software-Entwicklung & Testing",
+    "ort": "Schwetzingen (Homeoffice-Anteil möglich)",
+    "datum": "",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63021/"
+  },
+  "63020": {
+    "titel": "Eventhostess für das HCC",
+    "ort": "Heidelberg",
+    "datum": "21.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63020/"
+  },
+  "63019": {
+    "titel": "Verkäufer*in/Kassierer*in",
+    "ort": "Heidelberg",
+    "datum": "07.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63019/"
+  },
+  "63018": {
+    "titel": "Gartenhilfe",
+    "ort": "",
+    "datum": "07.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63018/"
+  },
+  "63017": {
+    "titel": "Werkstudierende QC Biological Analytics",
+    "ort": "Heidelberg",
+    "datum": "11.11.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63017/"
+  },
+  "63016": {
+    "titel": "Unterstützung am Empfang am Campus Heidelberg",
+    "ort": "Heidelberg",
+    "datum": "26.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63016/"
+  },
   "63015": {
     "titel": "Haushaltshilfe",
     "ort": "Heidelberg-Weststadt",
@@ -46,77 +118,5 @@
     "ort": "Heidelberg-Weststadt",
     "datum": "16.11.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63008/"
-  },
-  "63007": {
-    "titel": "Studentische Mitarbeit im Sekretariat",
-    "ort": "Mannheim",
-    "datum": "01.11.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63007/"
-  },
-  "63006": {
-    "titel": "Studentische Aushilfe für den Verkauf",
-    "ort": "Heidelberg",
-    "datum": "05.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63006/"
-  },
-  "63005": {
-    "titel": "Empfangs- u. Hygienekraft in Podologie",
-    "ort": "Heidelberg-Pfaffengrund",
-    "datum": "06.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63005/"
-  },
-  "63004": {
-    "titel": "HiWi für die Zytologie/Durchflusszytometrie am MVZ Heppenheim",
-    "ort": "Heppenheim",
-    "datum": "01.11.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63004/"
-  },
-  "63003": {
-    "titel": "HiWi Molekularbiologie/ NGS",
-    "ort": "Heppenheim",
-    "datum": "01.11.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63003/"
-  },
-  "63002": {
-    "titel": "Schmuckverkauf Weihnachtsmarkt",
-    "ort": "Heidelberg-Altstadt",
-    "datum": "15.11.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63002/"
-  },
-  "63001": {
-    "titel": "Wohnungsreinigung",
-    "ort": "Heidelberg-Rohrbach",
-    "datum": "05.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63001/"
-  },
-  "63000": {
-    "titel": "Studienteilnehmende",
-    "ort": "Heidelberg-Altstadt",
-    "datum": "05.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63000/"
-  },
-  "62999": {
-    "titel": "Babysitter*in gesucht",
-    "ort": "Heidelberg-Neuenheim",
-    "datum": "06.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62999/"
-  },
-  "62998": {
-    "titel": "Nachtportier*in",
-    "ort": "Heidelberg",
-    "datum": "01.11.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62998/"
-  },
-  "62997": {
-    "titel": "Spülkraft in Restaurant",
-    "ort": "Neckargemünd",
-    "datum": "10.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62997/"
-  },
-  "62995": {
-    "titel": "Kinokasse",
-    "ort": "Heidelberg",
-    "datum": "15.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/62995/"
   }
 }
