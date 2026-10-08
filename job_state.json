@@ -1,4 +1,58 @@
 {
+  "63036": {
+    "titel": "Modell Aktzeichnen w/m/d",
+    "ort": "Heidelberg-Bergheim",
+    "datum": "14.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63036/"
+  },
+  "63035": {
+    "titel": "SprachmittlerIn Chinesisch",
+    "ort": "Heidelberg/ Patrick-Henry-Village",
+    "datum": "12.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63035/"
+  },
+  "63034": {
+    "titel": "eine*n IT-Support/ Minijob",
+    "ort": "Heidelberg",
+    "datum": "12.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63034/"
+  },
+  "63033": {
+    "titel": "Übungsleiter*in Yoga",
+    "ort": "Heidelberg",
+    "datum": "04.11.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63033/"
+  },
+  "63032": {
+    "titel": "Nachhilfe Mathe 8 Klasse Gymnasium",
+    "ort": "Heidelberg-Altstadt",
+    "datum": "12.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63032/"
+  },
+  "63031": {
+    "titel": "Französisch Nachhilfe 4. Lernjahr Gymnasium",
+    "ort": "Heidelberg",
+    "datum": "12.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63031/"
+  },
+  "63030": {
+    "titel": "Aushilfe in Arztpraxis",
+    "ort": "Eppelheim",
+    "datum": "08.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63030/"
+  },
+  "63029": {
+    "titel": "Haushaltshilfe",
+    "ort": "Heidelberg-Südstadt",
+    "datum": "08.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63029/"
+  },
+  "63028": {
+    "titel": "Haushaltshilfe und Babysitting",
+    "ort": "Heidelberg",
+    "datum": "08.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63028/"
+  },
   "63027": {
     "titel": "Nachhilfe Mathematik 10. Klasse Gymnasium",
     "ort": "Heidelberg",
@@ -41,12 +95,6 @@
     "datum": "",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63021/"
   },
-  "63020": {
-    "titel": "Eventhostess für das HCC",
-    "ort": "Heidelberg",
-    "datum": "21.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63020/"
-  },
   "63019": {
     "titel": "Verkäufer*in/Kassierer*in",
     "ort": "Heidelberg",
@@ -70,53 +118,5 @@
     "ort": "Heidelberg",
     "datum": "26.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63016/"
-  },
-  "63015": {
-    "titel": "Haushaltshilfe",
-    "ort": "Heidelberg-Weststadt",
-    "datum": "06.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63015/"
-  },
-  "63014": {
-    "titel": "Putzhilfe",
-    "ort": "Heidelberg-Weststadt",
-    "datum": "06.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63014/"
-  },
-  "63013": {
-    "titel": "Hilfe bei der Einrichtung von kleinanzeigen-account und markt.de",
-    "ort": "HD",
-    "datum": "",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63013/"
-  },
-  "63012": {
-    "titel": "Nachbarschaftshilfe – Sinnvolles tun und Geld dabei verdienen",
-    "ort": "Heidelberg-Handschuhsheim,-Neuenheim",
-    "datum": "06.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63012/"
-  },
-  "63011": {
-    "titel": "Werkstudent*in in einer Full Stack-Softwareentwicklung Legal Tech-Kanzlei gesucht",
-    "ort": "Heidelberg-Altstadt",
-    "datum": "01.11.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63011/"
-  },
-  "63010": {
-    "titel": "Babysitter*in",
-    "ort": "Heidelberg-Neuenheim",
-    "datum": "05.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63010/"
-  },
-  "63009": {
-    "titel": "Nachhilfe in Hauptfächern ab Klasse 4",
-    "ort": "Sinsheim, Philippsburg, Dossenheim",
-    "datum": "12.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63009/"
-  },
-  "63008": {
-    "titel": "Werkstudent*in im Büro",
-    "ort": "Heidelberg-Weststadt",
-    "datum": "16.11.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63008/"
   }
 }
