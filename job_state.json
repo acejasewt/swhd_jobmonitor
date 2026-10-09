@@ -1,9 +1,21 @@
 {
+  "63062": {
+    "titel": "Service",
+    "ort": "Heidelberg-Bahnstadt",
+    "datum": "09.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63062/"
+  },
   "63061": {
     "titel": "Hilfe beim Rasenmähen und Hecke-Schneiden",
     "ort": "Heidelberg-Rohrbach",
     "datum": "09.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63061/"
+  },
+  "63060": {
+    "titel": "Werkstudent in der Personalabteilung",
+    "ort": "Heidelberg",
+    "datum": "04.01.2027",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63060/"
   },
   "63059": {
     "titel": "Küchenaushilfe",
@@ -106,17 +118,5 @@
     "ort": "Heidelberg",
     "datum": "08.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63043/"
-  },
-  "63042": {
-    "titel": "Werkstudent*in päd.Kraft",
-    "ort": "Heidelberg, Emmertsgrund",
-    "datum": "26.10.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63042/"
-  },
-  "63041": {
-    "titel": "Werkstudent*in im Referat der Kreisgeschäftsführung",
-    "ort": "Rhein-Neckar/ Heidelberg",
-    "datum": "01.11.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63041/"
   }
 }
