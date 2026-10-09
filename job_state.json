@@ -1,4 +1,16 @@
 {
+  "63059": {
+    "titel": "Küchenaushilfe",
+    "ort": "Dossenheim",
+    "datum": "09.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63059/"
+  },
+  "63058": {
+    "titel": "Aushilfe im Service",
+    "ort": "Dossenheim",
+    "datum": "09.10.2026",
+    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63058/"
+  },
   "63057": {
     "titel": "Reinigungshilfe",
     "ort": "Heidelberg-Rohrbach",
@@ -106,17 +118,5 @@
     "ort": "Leimen",
     "datum": "12.10.2026",
     "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63040/"
-  },
-  "63038": {
-    "titel": "Werkstudent*in Recht – ab 4. Semester",
-    "ort": "Heidelberg",
-    "datum": "01.11.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63038/"
-  },
-  "63037": {
-    "titel": "Bereitschaftsdienst im studentischen Telefondienst",
-    "ort": "Heidelberg",
-    "datum": "01.12.2026",
-    "url": "https://www.stw.uni-heidelberg.de/beratung-service/online-jobboerse/63037/"
   }
 }
